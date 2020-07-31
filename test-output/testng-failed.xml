@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="firstProjectPavan.firstProjectPavan.AllegisgroupJobSerch">
+      <class name="firstProjectPavan.firstProjectPavan.CheckboxInSelenium">
         <methods>
-          <include name="jobsearchOnAllegisGroupHomePageAdvanced"/>
+          <include name="enterText"/>
         </methods>
-      </class> <!-- firstProjectPavan.firstProjectPavan.AllegisgroupJobSerch -->
+      </class> <!-- firstProjectPavan.firstProjectPavan.CheckboxInSelenium -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
